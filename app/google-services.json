@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394522240027",
+    "project_id": "assignmentand103",
+    "storage_bucket": "assignmentand103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394522240027:android:d67b014ffc3fa3670f44be",
+        "android_client_info": {
+          "package_name": "com.example.less3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0W_xAVgAGCunm5s_yznAnn0Xx_cuQis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394522240027:android:a2f20f47a0b8eb760f44be",
+        "android_client_info": {
+          "package_name": "learn.fpoly.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0W_xAVgAGCunm5s_yznAnn0Xx_cuQis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

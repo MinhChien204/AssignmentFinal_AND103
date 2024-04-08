@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#77757E" /><!-- Màu nền của drawable -->
+    <corners android:radius="400dp" /> <!-- Bán kính bo góc, thay đổi giá trị để thay đổi độ cong của góc -->
+</shape>
